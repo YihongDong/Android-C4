@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">c4b</string>
+    <string-array name="name_array">
+        <item>Brazil</item>
+        <item>HongKong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Israel</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>10:00</item>
+        <item>10:15</item>
+        <item>10:30</item>
+        <item>10:45</item>
+        <item>11:00</item>
+        <item>11:15</item>
+        <item>11:30</item>
+    </string-array>
+
+    <string-array name="size_array">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+    </string-array>
+</resources>
