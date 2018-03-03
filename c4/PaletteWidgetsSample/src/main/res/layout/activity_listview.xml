@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.chapters.z.palette.ListViewActivity">
+
+    <Button
+        android:id="@+id/btnarray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="btaOnClick"
+        android:text="ArrayAdapter" />
+
+    <Button
+        android:id="@+id/btnsimple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="btsOnClick"
+        android:text="SimpleAdapter" />
+
+    <Button
+        android:id="@+id/btnmyadapter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="btmOnClick"
+        android:text="MyAdapter" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listview01"
+        />
+
+</LinearLayout>

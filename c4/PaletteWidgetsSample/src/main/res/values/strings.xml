@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Palette</string>
+
+    <string-array name="city_array">
+        <item>shanghai</item>
+        <item>beijing</item>
+        <item>guangzhou</item>
+        <item>shenzhen</item>
+        <item>nanjing</item>
+        <item>fuzhou</item>
+        <item>jingdezhen</item>
+        <item>chongqing</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="postcode_array">
+        <item>021</item>
+        <item>020</item>
+        <item>010</item>
+        <item>021</item>
+        <item>020</item>
+        <item>021</item>
+        <item>020</item>
+        <item>010</item>
+        <item>021</item>
+        <item>020</item>
+        <item>010</item>
+        <item>021</item>
+        <item>020</item>
+        <item>010</item>
+        <item>021</item>
+        <item>020</item>
+        <item>010</item>
+        <item>021</item>
+        <item>020</item>
+        <item>010</item>
+        <item>010</item>
+        <item>021</item>
+        <item>020</item>
+        <item>010</item>
+    </string-array>
+
+    <string-array name="countriesflag_english">
+        <item>Brazil</item>
+        <item>HongKong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Israel</item>
+        <item>Mexico</item>
+        <item>England</item>
+    </string-array>
+
+    <string-array name="countries_chinese">
+        <item>巴西</item>
+        <item>香港</item>
+        <item>匈牙利</item>
+        <item>冰岛</item>
+        <item>印度</item>
+        <item>印度尼西亚</item>
+        <item>以色列</item>
+        <item>墨西哥</item>
+        <item>英格兰</item>
+    </string-array>
+</resources>
